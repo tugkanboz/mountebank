@@ -14,7 +14,7 @@
         "airplane": "MB_AIRPLANE_MODE=true npm test"
     },
     "dependencies": {
-        "@xmldom/xmldom": "0.9.8",
+        "@xmldom/xmldom": "0.9.9",
         "express": "5.1.0",
         "fs-extra": "11.3.1",
         "hpagent": "1.2.0",
@@ -23,7 +23,7 @@
         "mocha-multi-reporters": "1.5.1",
         "mountebank": "file:..",
         "nc": "1.0.3",
-        "nodemailer": "8.0.1",
+        "nodemailer": "8.0.5",
         "safe-stable-stringify": "2.5.0",
         "xpath": "0.0.34"
     },
